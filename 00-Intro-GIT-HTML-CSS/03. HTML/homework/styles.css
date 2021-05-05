@@ -7,11 +7,16 @@ img{
 #thirdDiv{
     height: 600px;
     width: 500px;
-    background-color:teal;
+    background-color:rgb(173, 135, 7);
     padding: 50px;
     border: 2px solid black;
 }
 #spanId{
     font-size: 18px;
     margin: 50px solid;
+}
+#Divclass{
+    position: absolute;
+    left: 200px;
+
 }
